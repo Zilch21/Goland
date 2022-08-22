@@ -34,5 +34,6 @@ https://go.dev/play/p/nP3zNJRcgCW
 
 go routine concurrente más extenso
 https://go.dev/play/p/Fh9QO5CREzH
+
 Atomic 
 https://go.dev/play/p/DhCyT5cw7VD
